@@ -1,2 +1,2 @@
 # KisiselWebProjesi
- ASP.NET MVC ve MSSQL kullanarak kişisel bir web adresi oluşturdum.
+ ASP.NET MVC ve MSSQL kullanarak kişisel bir web adresi oluşturdum.Bu proje, kişisel bilgilerimi, projelerimi, iletişim bilgilerimi sergileyebileceğim dinamik bir web sitesi olarak tasarlandım. ASP.NET MVC'nin Model-View-Controller mimarisini kullanarak düzenli ve sürdürülebilir bir yapı sağladım ve MSSQL veritabanı ile tüm dinamik içerikleri güvenli bir şekilde yönettim. Site, kullanıcı giriş/çıkış işlemleri ve iletişim formu gibi temel özellikler içeriyor.
